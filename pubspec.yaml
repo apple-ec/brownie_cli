@@ -1,0 +1,14 @@
+name: brownie_cli
+description: Bring tasty automation into your flutter project
+version: 0.0.1
+author: Appala Reddy
+homepage: https://github.com/apple-ec/brownie_cli.git
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+
+dev_dependencies:
+
+flutter:
